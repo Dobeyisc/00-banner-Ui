@@ -1,3 +1,3 @@
-<h1>BANNER chakra ui</h1>
-![Texto Alternativo](https://postimg.cc/WDTFYJzX)
+
+![Texto Alternativo](https://i.postimg.cc/WDTFYJzX/BannerUI.jpg)
 
