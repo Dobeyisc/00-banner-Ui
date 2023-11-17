@@ -1,3 +1,3 @@
+[![BannerUI.png](https://i.postimg.cc/0NJYQYsR/BannerUI.png)](https://postimg.cc/WDTFYJzX)
 
-![Texto Alternativo](https://i.postimg.cc/WDTFYJzX/BannerUI.jpg)
 
