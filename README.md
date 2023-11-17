@@ -1,2 +1,3 @@
 <h1>BANNER chakra ui</h1>
-![Texto Alternativo](https://raw.github.com/Dobeyisc/00-banner-Ui/blob/main/BannerUI.PNG)
+![Texto Alternativo](https://raw.githubusercontent.com/Dobeyisc/00-banner-Ui/main/BannerUI.PNG)
+
